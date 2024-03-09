@@ -1,0 +1,71 @@
+{
+    "arabica": [
+        {
+            "foto": "images/produk/product_capuchino.jpg",
+            "nama": "Cappuccino Arabica",
+            "size": "100 Gram",
+            "harga": "20.000",
+            "link": "https://www.google.com/search?q=cappuccino+arabica&tbm=shop"
+        },
+        {
+            "foto": "images/produk/product_espresso.jpg",
+            "nama": "Pahit Arabica",
+            "size": "100 Gram",
+            "harga": "20.000",
+            "link": "https://www.google.com/search?q=pahit+arabica&tbm=shop"
+        },
+        {
+            "foto": "images/produk/product_latte.jpg",
+            "nama": "Latte Arabica",
+            "size": "150 Gram",
+            "harga": "20.000",
+            "link": "https://www.google.com/search?q=latte+arabica&tbm=shop"
+        }
+    ],
+    "robusta": [
+        {
+            "foto": "images/produk/product_kopi_susu.jpg",
+            "nama": "Kopsus Robusta",
+            "size": "100 Gram",
+            "harga": "20.000",
+            "link": "https://www.google.com/search?q=kopi+susu+robusta&tbm=shop"
+        },
+        {
+            "foto": "images/produk/product_latte.jpg",
+            "nama": "Latte Robusta",
+            "size": "150 Gram",
+            "harga": "15.000",
+            "link": "https://www.google.com/search?q=latte+robusta&tbm=shop"
+        },
+        {
+            "foto": "images/produk/argopuro.jpeg",
+            "nama": "Aropuro Robusta",
+            "size": "150 Gram",
+            "harga": "15.000",
+            "link": "https://www.google.com/search?q=argopuro+robusta+kopi&sca_esv=421dc4c8986dd1d4&biw=1366&bih=641&tbm=isch&sxsrf=ACQVn0-jiDVwp0c70Zg7atJlnnDuiPzRHw:1709989106142&source=lnms#imgrc=mp0HZ-Is_UiDnM"
+        }
+    ],
+    "nonkopi": [
+        {
+            "foto": "images/produk/pisang_goreng.jpeg",
+            "nama": "Pisang Goreng",
+            "size": "400 Gram",
+            "harga": "15.000",
+            "link": "https://www.google.com/search?sca_esv=421dc4c8986dd1d4&sxsrf=ACQVn0_LAcSi30JEQPJJ2GmXwspA2QqTdQ:1709988759161&q=pisang+goreng+kafe&tbm=shop&source=lnms&biw=1366&bih=641&dpr=1#spd=17498181928227654435"
+        },
+        {
+            "foto": "images/produk/kentang_enak.jpeg",
+            "nama": "Kentang Goreng Renyah",
+            "size": "300 Gram",
+            "harga": "25.000",
+            "link": "https://shopee.co.id/product/273545702/15094952604?gad_source=4&gclid=Cj0KCQiArrCvBhCNARIsAOkAGcVtdbcgLPZOowxtZ1s0NFXBByL_H-5PbgoqhkhikzS3FiQSo41ElwMaAqAREALw_wcB"
+        },
+        {
+            "foto": "images/produk/mozarela.jpeg",
+            "nama": "Mozarella Nikmat",
+            "size": "500 Gram",
+            "harga": "45.000",
+            "link": "https://www.google.com/search?q=mozarellaa+goreng&sca_esv=01fd5b34e9d467a5&bih=641&biw=1366&hl=id&tbm=shop&sxsrf=ACQVn09r71Xy8X4sXOv8B5CNneNLqG9-zQ%3A1709989499680&ei=e17sZdzeKLLlseMP5tSZiAY&ved=0ahUKEwiciMqln-eEAxWycmwGHWZqBmEQ4dUDCAg&uact=5&oq=mozarellaa+goreng&gs_lp=Egtwcm9kdWN0cy1jYyIRbW96YXJlbGxhYSBnb3JlbmcyBxAAGIAEGA0yChAAGIAEGA0Y1gUyCRAAGB4YDRjWBTILEAAYBRgeGA0Y1gUyCxAAGAUYHhgNGNYFMgsQABgFGB4YDRjWBTILEAAYBRgeGA0Y1gUyCxAAGAUYHhgNGNYFMgsQABgFGB4YDRjWBTILEAAYBRgeGA0Y1gVI_EBQAFipP3ABeACQAQCYAXagAeANqgEEMTIuNrgBA8gBAPgBAZgCE6AC-Q_CAgoQABiABBiKBRhDwgIFEAAYgATCAgwQABiABBgNGNYFGArCAgsQABgeGA0Y1gUYCpgDAJIHBDIuMTegB-hu&sclient=products-cc#spd=15574234782229946456"
+        }
+    ]
+}
